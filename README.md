@@ -27,7 +27,7 @@ that, if a player pops two or more bubbles of the same colour consecutively, the
 the points for the additional bubbles they pop. Finally, game scores are saved and a high score
 board is displayed after a game run is finished.
 
-<img width="722" alt="Screenshot 2024-09-19 at 11 21 23 am" src="https://github.com/user-attachments/assets/da25a2e1-bf78-43e6-afb0-e6e0ba006821">
+<img width="722" alt="Screenshot 2024-09-19 at 11 25 16 am" src="https://github.com/user-attachments/assets/7e8b8bc7-ee88-46a5-99bd-1c2704daa3d7">
 
 
 Core Functionalities
