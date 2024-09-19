@@ -27,6 +27,9 @@ that, if a player pops two or more bubbles of the same colour consecutively, the
 the points for the additional bubbles they pop. Finally, game scores are saved and a high score
 board is displayed after a game run is finished.
 
+<img width="722" alt="Screenshot 2024-09-19 at 11 21 23 am" src="https://github.com/user-attachments/assets/da25a2e1-bf78-43e6-afb0-e6e0ba006821">
+
+
 Core Functionalities
 1. A player must be able to enter their name before the start of a game run. (You may load
 the player's name from the GameKit API if you wish. This extra work is not required.)
